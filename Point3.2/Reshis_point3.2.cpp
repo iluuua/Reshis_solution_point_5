@@ -43,6 +43,7 @@ void solve() {
 }
 
 int main() {
+    freopen("input.txt", "r", stdin);
     solve();
     return 0;
 }
