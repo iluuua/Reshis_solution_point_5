@@ -5,6 +5,8 @@
 
 using namespace std;
 
+/// Граф из задания лежит в cmake-build-debug/input.txt
+
 void solve() {
     int cnt_rounds;
     int n, m;
