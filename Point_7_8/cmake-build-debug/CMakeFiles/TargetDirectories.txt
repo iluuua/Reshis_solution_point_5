@@ -1,0 +1,3 @@
+/Users/ilua/Desktop/Development/Reshis_solutions/Point_7_8/cmake-build-debug/CMakeFiles/executable3.dir
+/Users/ilua/Desktop/Development/Reshis_solutions/Point_7_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ilua/Desktop/Development/Reshis_solutions/Point_7_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
